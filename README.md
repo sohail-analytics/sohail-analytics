@@ -26,7 +26,7 @@ I have completed hands-on analytics projects involving restaurant data and e-com
 ## 📂 Featured Projects
 ### 1. Zomato Restaurant Analytics
 **Tools:** Excel, SQL, Tableau, Power BI
-An end-to-end restaurant analytics project focused on exploring restaurant performance and identifying business patterns.
+An end-to-end restaurant analytics project focused on exploring restaurant performance and identifying business patterns GLOBAL AND INIDA WISE.
 
 **Project areas:**
 - Restaurant and cuisine analysis
